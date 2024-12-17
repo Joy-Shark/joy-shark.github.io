@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:53758/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Dec 2024 21:39:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:53758/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Czk</title>
+      <link>http://localhost:53758/posts/czk/</link>
+      <pubDate>Mon, 09 Dec 2024 21:39:19 +0800</pubDate>
+      <guid>http://localhost:53758/posts/czk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chen</title>
+      <link>http://localhost:53758/posts/chen/</link>
+      <pubDate>Mon, 09 Dec 2024 21:39:13 +0800</pubDate>
+      <guid>http://localhost:53758/posts/chen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Joy</title>
+      <link>http://localhost:53758/posts/joy/</link>
+      <pubDate>Mon, 09 Dec 2024 21:38:51 +0800</pubDate>
+      <guid>http://localhost:53758/posts/joy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shark</title>
+      <link>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-10---%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 09 Dec 2024 21:30:27 +0800</pubDate>
+      <guid>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-10---%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;p&gt;this is shark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shark</title>
+      <link>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-10/</link>
+      <pubDate>Mon, 09 Dec 2024 21:30:27 +0800</pubDate>
+      <guid>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-10/</guid>
+      <description>&lt;p&gt;this is shark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shark</title>
+      <link>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-2/</link>
+      <pubDate>Mon, 09 Dec 2024 21:30:27 +0800</pubDate>
+      <guid>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-2/</guid>
+      <description>&lt;p&gt;this is shark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shark</title>
+      <link>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-3/</link>
+      <pubDate>Mon, 09 Dec 2024 21:30:27 +0800</pubDate>
+      <guid>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-3/</guid>
+      <description>&lt;p&gt;this is shark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shark</title>
+      <link>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-5---%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 09 Dec 2024 21:30:27 +0800</pubDate>
+      <guid>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-5---%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;p&gt;this is shark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shark</title>
+      <link>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-5/</link>
+      <pubDate>Mon, 09 Dec 2024 21:30:27 +0800</pubDate>
+      <guid>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-5/</guid>
+      <description>&lt;p&gt;this is shark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shark</title>
+      <link>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-6/</link>
+      <pubDate>Mon, 09 Dec 2024 21:30:27 +0800</pubDate>
+      <guid>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC-6/</guid>
+      <description>&lt;p&gt;this is shark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shark</title>
+      <link>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 09 Dec 2024 21:30:27 +0800</pubDate>
+      <guid>http://localhost:53758/posts/shark---%E5%89%AF%E6%9C%AC/</guid>
+      <description>&lt;p&gt;this is shark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shark</title>
+      <link>http://localhost:53758/posts/shark/</link>
+      <pubDate>Mon, 09 Dec 2024 21:30:27 +0800</pubDate>
+      <guid>http://localhost:53758/posts/shark/</guid>
+      <description>&lt;p&gt;this is shark&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
