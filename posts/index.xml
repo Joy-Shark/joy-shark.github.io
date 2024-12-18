@@ -15,5 +15,12 @@
       <guid>https://example.org/posts/ji/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Ok</title>
+      <link>https://example.org/posts/ok/</link>
+      <pubDate>Wed, 18 Dec 2024 19:48:28 +0800</pubDate>
+      <guid>https://example.org/posts/ok/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
